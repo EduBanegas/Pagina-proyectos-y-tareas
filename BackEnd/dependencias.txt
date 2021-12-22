@@ -1,0 +1,19 @@
+Stack PERN
+
+Dependecias en produccion:
+
+express
+pg pg-hstore
+sequelize 
+bcryptjs
+cors
+dotenv
+jsonwebtoken
+morgan 
+helmet 
+@babel/polyfill
+
+Dependencias en desarrollo (-D):
+
+nodemon 
+@babel/core @babel/cli @babel/node @babel/preset-env 
